@@ -2,8 +2,9 @@
 
 A MERN application for basic task management.
 
-![App Image](<img width="1148" height="696" alt="image" src="https://github.com/user-attachments/assets/d7144026-346d-47d7-a401-84e288fb8bd0" />
-)
+![App Image]
+
+<img width="1122" height="686" alt="image" src="https://github.com/user-attachments/assets/65d247a9-9cd9-4957-b0dc-1595fc122ee1" />
 
 ---
 
